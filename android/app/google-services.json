@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725585353344",
+    "firebase_url": "https://ungshowshim.firebaseio.com",
+    "project_id": "ungshowshim",
+    "storage_bucket": "ungshowshim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725585353344:android:2a3e88ba161523b31ee465",
+        "android_client_info": {
+          "package_name": "com.androidthai.ungshowshim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725585353344-jd22c6ommd0pfd4q1mkr19fhj1gabnl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdffbLtcgdQYPWCTwVkxkvxFcJ9CUAsJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725585353344-jd22c6ommd0pfd4q1mkr19fhj1gabnl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
